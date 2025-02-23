@@ -1,5 +1,5 @@
 #include "driver_dht11.h"
-#include "main.h"
+//#include "main.h"
 
 static TIM_HandleTypeDef        htim;
 
